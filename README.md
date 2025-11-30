@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Lywhy!
 
-<!--
-**Lywhy/Lywhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer & UX/UI Designer**   
+*🎯 On the journey to becoming a Fullstack Developer*
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Frontend Development:**
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Redux & Redux Toolkit, React Hook Forms, Zod, i18next
+- **Styling:** Tailwind CSS, Material-UI (MUI), shadcn
+- **Animation:** Framer Motion
+
+### **Design:**
+- **UI/UX Design:** Figma
+- **Graphics & Processing:** Photoshop
+- **Productivity & Planning:** Obsidian
+
+## 🚀 What I Do
+
+- 🎨 Designing intuitive interfaces in Figma
+- 💻 Transforming designs into responsive, interactive web applications
+- 🎭 Adding smooth animations
+- 🔧 Building scalable and maintainable code architecture
+- 🚀 **Expanding** to backend development to create full-stack solutions
+
+## 🎨 Beyond Code
+
+When I'm not coding or designing:
+- 📝 Planning and organizing projects in Obsidian
+- 🎨 Creating graphics and processing images in Photoshop
+- 🔄 Constantly learning new technologies and design trends
+- 🎯 Working towards my fullstack development goals
