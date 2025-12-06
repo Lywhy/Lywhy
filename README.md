@@ -11,10 +11,11 @@
 - **Styling:** Tailwind CSS, Material-UI (MUI), shadcn
 - **Animation:** Framer Motion
 
-### **Design:**
+### **Apps:**
 - **UI/UX Design:** Figma
 - **Graphics & Processing:** Photoshop
 - **Productivity & Planning:** Obsidian
+- **Code:** Vs Code & WebStorm & IntelliJ Idea & DataGrip
 
 ## 🚀 What I Do
 
