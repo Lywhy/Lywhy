@@ -7,7 +7,7 @@
 
 ### **Frontend Development:**
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Redux & Redux Toolkit, React Hook Forms, Zod, i18next
+- **Frameworks & Libraries:** React, Redux & Redux Toolkit, Zustand, React Router, React Hook Forms, Zod, i18next
 - **Styling:** Tailwind CSS, Material-UI (MUI), shadcn
 - **Animation:** Framer Motion
 
